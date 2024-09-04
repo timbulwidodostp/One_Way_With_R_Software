@@ -1,6 +1,8 @@
 # One_Way_With_R_Software
 One Way (ANOVA) Use R Software Complete Step By Step
 
+https://www.youtube.com/watch?v=7ncisqHFkQc
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
